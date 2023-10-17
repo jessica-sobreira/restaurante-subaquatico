@@ -23,7 +23,7 @@ function App() {
 
         <ImageWithText
           img={'https://i.pinimg.com/originals/a0/16/87/a016878919bbd44e858b57dc176e7379.png'}
-          title="Hamburguer VIP"
+          title="Hambúrguer VIP"
           text="Só para quem é VIP!"
         />
 
