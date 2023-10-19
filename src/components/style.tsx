@@ -13,6 +13,7 @@ justify-content: end;
 
 div{
     color:  white;
+    text-shadow: 0px 0px 0px 50px rgba(0, 0, 0, 0.25);
     font-size: 3em;
     width: 50%;
     right: 0;
